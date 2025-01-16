@@ -1,6 +1,6 @@
 # Keyboards
 
-Mechanical Keyboard & Keypad Designs & My process Iterating them
+Mechanical Keyboard & Keypad Designs & my process iterating them
 
 ## Overview
 
@@ -26,16 +26,25 @@ Since June 2024, I have been designing and prototyping mechanical keypads in ord
 
 ---
 
-### Rev 1
+## Rev 1
+
+- [Microcontroller](https://www.sparkfun.com/products/12640): Ardino Pro Micro (ATMega32U4-MU)
+
+### Notes
+
+A misconfiguration of the keyboard matrix caused this first version to not fully work. 
+
+However, 
+
 
 ---
 
-### Rev 2
+## Rev 2
 
 ---
 
-### Rev 3
+## Rev 3
 
 ---
 
-### Rev 4
+## Rev 4
