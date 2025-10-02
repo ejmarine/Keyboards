@@ -46,8 +46,9 @@ Due to tariffs, this was greatly delayed and much more expensive. Was toying wit
 ### Images
 
 <img src="keeb_rev1/keeb_top_done.jpg" alt="drawing" width="49%">
-<img src="keeb_rev1/keeb_top_empty.jpg" alt="drawing" width="49%"><br>
+<img src="keeb_rev1/keeb_top_empty.jpg" alt="drawing" width="49%">
 <img src="keeb_rev1/keeb_top_pcb.jpg" alt="drawing" width="49%">
+<img src="keeb_rev1/keeb_3dp_vs_aluminum.jpg" alt="drawing" width="49%">
 
 #### PCB Schematic
 
