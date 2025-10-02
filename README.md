@@ -29,7 +29,35 @@ actual product available from a manufacturer.
 
 ---
 
+## Rev 4 (60% Keyboard)
+
+### Images
+
+
+
 ## Rev 3 (Current Version)
+
+### Notes
+
+The PCB shares most of the same properties as the previous ones, just with much, much more switches. Same RP2040 as the latest keypad, etc. Only difference is I made the PCB white, which was a bit of a mistake because it reflects too much light and you can see past the keycaps. Other than that, no issues so far.
+
+3D Modeled the case via OnShape and 3D printed it on my Ender 3. 
+
+Finally, once I was satisfied with the design, I had it milled out of 6061 Aluminum via JLCCNC.
+
+While I made some slight modifications to the measurements, the design stayed largely the same (see below).
+
+Due to tariffs, this was greatly delayed and much more expensive. Was toying with the idea of selling these until the prices of importing everything doubled, while the price of making it all in the States is still even more. Regardless, I'm super happy with how it turned out. 
+
+### Images
+
+<img src="keeb_rev1/keeb_top_done.jpg" alt="drawing" width="49%">
+<img src="keeb_rev1/keeb_top_empty.jpg" alt="drawing" width="49%"><br>
+<img src="keeb_rev1/keeb_top_pcb.jpg" alt="drawing" width="49%">
+
+#### PCB Schematic
+
+<img src="keeb_rev1/keeb_rev1.png" alt="drawing" width="55%">
 
 ### Images
 
